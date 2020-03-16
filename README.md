@@ -1,2 +1,5 @@
 # Missing-Semester
-Notes from the MIT course on computer science tools - The Missing Semester of Your CS Education
+
+This course teaches software-adjacent tools like Shell and Vim that make programming more efficient. 
+
+Course link [here](https://missing.csail.mit.edu/).
