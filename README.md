@@ -1,6 +1,6 @@
 # Missing-Semester
 
-This course, taught by MIT computer science PhDs,  teaches software-adjacent tools like Shell and Vim that make programming more efficient. You can follow along [here](https://missing.csail.mit.edu/).
+This course, taught by MIT computer science PhDs,  teaches software-adjacent tools like Shell and Vim that make programming more efficient. I'm working through the lectures and exercises, and keeping the notes here. Course link [here](https://missing.csail.mit.edu/).
 
 - [x] Lecture 1 - Shell Introduction (3/15/20)
 - [ ] Lecture 2 - Shell Tools and Scripting
